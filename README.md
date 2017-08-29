@@ -8,3 +8,5 @@ I am kind of a beginner with Github. What I want to practice is:
 1. Collaborations.
 2. Security copies.
 3. Multiplatforms editing.
+
+Hi Martin,  This sounds like a good idea :)  -Danica
